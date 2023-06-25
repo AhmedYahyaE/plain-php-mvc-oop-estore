@@ -22,13 +22,13 @@ The e-store is Multilingual (English and Arabic).
 ## Installation & Configuration:
 1- Clone the project or download it.
 
-2- Create a MySQL database named **\`storedb\`** and import the database SQL Dump File from [storedb database SQL Dump File.sql](<Database - storedb/storedb database - SQL Dump File - PhpMyAdmin Export.sql>) SQL Dump file. Navigate to '**`Database - storedb`**/**`storedb database - SQL Dump File - PhpMyAdmin Export.sql`**' SQL Dump file.
+2- Create a MySQL database named **\`storedb\`** and import the database SQL Dump File from [storedb database SQL Dump File.sql](<Database - storedb/storedb database - SQL Dump File - PhpMyAdmin Export.sql>). Navigate to '**`Database - storedb`**/**`storedb database - SQL Dump File - PhpMyAdmin Export.sql`**' SQL Dump file.
 
-3- Navigate to the app/database connection configuration file in '**`app/config/config.php`**' file and configure/edit/update the file with your MySQL database credentials and other configuration settings.
+3- Navigate to the application configuration file in '**`app/config/config.php`**' file and configure/edit/update the file with your MySQL database credentials and other configuration settings.
 
 4- Navigate to the project "public" folder/directory (where the Entry Point index.php file is placed) by using the **`cd`** terminal command, and then start your PHP built-in Development Web Server by running the command: **`php -S localhost:8000`**.
 
-\*\***Note: Whatever your Web Server used is, you must change its Web Root Directory to the project "public" folder which contains the [index.php](public/index.php) file.**
+**\*\*Note: Whatever your Web Server is, you must change its Web Root Directory to the project "public" folder which contains the [index.php](public/index.php) file (Entry Point) in order for the application to function properly.**
 
 5- In your browser, go to http://localhost:8000/
 
