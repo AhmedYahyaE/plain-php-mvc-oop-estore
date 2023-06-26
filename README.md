@@ -28,7 +28,7 @@ The e-store is Multilingual (English and Arabic).
 
 4- Navigate to the project "public" folder/directory (where the Entry Point index.php file is placed) by using the **`cd`** terminal command, and then start your PHP built-in Development Web Server by running the command: **`php -S localhost:8000`**.
 
-**\*\*Note: Whatever your Web Server is, you must configure its Web Root Directory to be the project "public" folder which contains the [index.php](public/index.php) file (Entry Point) in order for the application Routing System to function properly.**
+**\*\*Note: Whatever your Web Server is, you must configure its Web Root Directory to be the application "public" folder which contains the [index.php](public/index.php) file (Entry Point) in order for the application Routing System to function properly.**
 
 5- In your browser, go to http://localhost:8000/
 
