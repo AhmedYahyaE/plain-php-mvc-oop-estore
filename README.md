@@ -4,6 +4,10 @@ A plain PHP and MySQL Electronic Store/Inventory Application which follows a rob
 
 The e-store is Multilingual (English and Arabic).
 
+## Screenshots:
+### MVC Design Pattern:
+![mvc-design-pattern](https://github.com/AhmedYahyaE/plain-php-mvc-oop-estore/assets/118033266/56a62f43-92db-4182-a369-2b37d6d25c07)
+
 ## Features:
 1- MVC design pattern / Front Controller Pattern.
 
